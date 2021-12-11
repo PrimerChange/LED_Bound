@@ -13,6 +13,6 @@ LED Change
         you can change PIN in file main.cpp line 4 and change mounts of Led in file main.cpp line 3
 Microphone module change
         you can change PIN in file main.cpp line 6 and change Maximum resolution of ADC in file main.cpp line 7
-        this project Maximum resolution of ADC is 512(0x200)
+        this project Maximum resolution of ADC is 512(10 bit)
 
 ## Novice, please advise
